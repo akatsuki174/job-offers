@@ -26,6 +26,11 @@ iOSDC　Japanのスタッフは長らくしており、初年度の2016年は当
 * 2022年 iOSDC Japan 5分LT
 * 2022年 DevFest tokyo 30分トーク
 
+# 執筆活動
+
+2022年WEB+DB PRESS vol.126のiOS 15特集で、UIKitの新機能について執筆しました。
+[https://gihyo.jp/magazine/wdpress/archive/2022/vol126](https://gihyo.jp/magazine/wdpress/archive/2022/vol126)
+
 # 家族
 
 もうすぐ2歳になる息子がいます。2週間に1回くらいは熱を出してお迎えになってしまうので、夫と交代で対応してます。
