@@ -4,3 +4,5 @@ Android/iOS/Flutterエンジニアのakatsukiです。このリポジトリは�
 * [私について](https://github.com/akatsuki174/job-offers/blob/main/files/about_me.md)
 * [希望条件](https://github.com/akatsuki174/job-offers/blob/main/files/preferred_conditions.md)
 * [略歴](https://github.com/akatsuki174/job-offers/blob/main/files/work_experience.md)
+
+※人材紹介業の方からの連絡はお断りさせてください
