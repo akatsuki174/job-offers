@@ -30,5 +30,5 @@ iOSDC　Japanのスタッフは長らくしており、初年度の2016年は当
 
 # 執筆活動
 
-2022年WEB+DB PRESS vol.126のiOS 15特集で、UIKitの新機能について執筆しました。
+2021年WEB+DB PRESS vol.126のiOS 15特集で、UIKitの新機能について執筆しました。
 [https://gihyo.jp/magazine/wdpress/archive/2022/vol126](https://gihyo.jp/magazine/wdpress/archive/2022/vol126)
